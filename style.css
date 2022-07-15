@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'feather';
-  src:  url('/web/20220705230556im_/https://cdn.jsdelivr.net/gh/emilymcaldwell/feathericons/fonts/feather.eot?a7wq8t');
-  src:  url('/web/20220705230556im_/https://cdn.jsdelivr.net/gh/emilymcaldwell/feathericons/fonts/feather.eot?a7wq8t#iefix') format('embedded-opentype'),
-    url('/web/20220705230556im_/https://cdn.jsdelivr.net/gh/emilymcaldwell/feathericons/fonts/feather.ttf?a7wq8t') format('truetype'),
-    url('/web/20220705230556im_/https://cdn.jsdelivr.net/gh/emilymcaldwell/feathericons/fonts/feather.woff?a7wq8t') format('woff'),
-    url('/web/20220705230556im_/https://cdn.jsdelivr.net/gh/emilymcaldwell/feathericons/fonts/feather.svg?a7wq8t#feather') format('svg');
+  src:  url('https://cdn.jsdelivr.net/gh/xtyncc/feathericons/fonts/feather.eot?a7wq8t');
+  src:  url('https://cdn.jsdelivr.net/gh/xtyncc/feathericons/fonts/feather.eot?a7wq8t#iefix') format('embedded-opentype'),
+  	url('https://cdn.jsdelivr.net/gh/xtyncc/feathericons/fonts/feather.ttf?a7wq8t') format('truetype'),
+  	url('https://cdn.jsdelivr.net/gh/xtyncc/feathericons/fonts/feather.woff?a7wq8t') format('woff'),
+  	url('https://cdn.jsdelivr.net/gh/xtyncc/feathericons/fonts/feather.svg?a7wq8t#feather') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
